@@ -1,0 +1,523 @@
+Date,Post Score,Post_title,Top Comment 1,Top Comment 2,Top_Comment_3
+2020-7-10,2929,Shout Out to All the Mediocre Data Scientists Out There,Preach. It's okay for your job to just be a job.,Lmao yes. I work at a decent Fortune 500 company but only have a bachelors and I’m sure as shit not publishing any papers or contributing to any research. I don’t even have a personal GitHub. Just trying to nominally contribute to the bottom line and earn a decent paycheck while doing so.,[removed]
+2021-7-12,2638,how about that data integrity yo,"If you find a good data engineer, you do everything in your power as a data scientist to keep them working with you. Lol",What are some examples of differences between the two roles? (sorry for a beginner question),The true heroes
+2019-12-5,2499,Imposter Syndrome is a problem for me and I think this is the main contributor,Being able to Google efficiently is a skill in and of itself. Nothing wrong with that,"I once attended an interview and they not only allowed, but encouraged googling for formulas I couldn’t remember off the top my head. Their argument was “we all do it, so why not allow you to do it?”",A question asked of theologists: How was Google invented without Google existing to research it?
+2021-2-14,2186,"I created a four-page Data Science Cheatsheet to assist with exam reviews, interview prep, and anything in-between","Nice work! Maybe consider adding another page with most used libraries, which are bound to appear in exams and interviews. That way the prospective data scientist can go and look for them to investigate further. Also if you think you are missing something important, I like [this website](https://blog.datasciencedojo.com/machine-learning-algorithms/) a lot.",Doing the Lord’s work out here. Thank you so much! 👏🏻👏🏻👏🏻,"Oh man, I have a test coming up in data analytics and this is SO concise and well put together. Thanks a million for sharing!"
+2019-12-15,1963,When the boss doesn’t like your charts,"4 Steps to Success For Politically Correct Performance Analytics:
+
+1. Train the suits to look at 5-10 KPIs
+
+2. Cohorts -> Rows, KPIs -> Columns 
+
+3. Proceed down columns sorting each descending
+
+4. Move most generous column to the front, tell story from there
+
+The trick isn't to lie, it's to make the bad news sound good!",">> Thanks boss. Next time you want me to cook the numbers tell me beforehand, at least a week before you want my resignation notice.",True story!
+2020-2-20,1925,"For any python & pandas users out there, here's a free tool to visualize your dataframes",This is low key freaking AMAZING as someone coming from an excel background,"Sorry for posting this information late.
+
+The name of this tool is D-Tale (""Data Tale"" or ""The Tale of your Data"").  Please submit any requests or issues on our [github](https://github.com/man-group/dtale)
+
+Interactive demo available [here](http://andrewschonfeld.pythonanywhere.com/)
+
+Thanks and hope you enjoy!",Can you write here what's the tool name? Thx.
+2020-4-20,1877,The next time my coworkers ask what metrics I used for my model.,All the other metrics have failed. Total losers.,"What’s the difference between the confidence interval vs quantile? 
+
+*points to head*",My uncle who is nuclear at MIT showed me his metrics..it's even bigger folks! Believe me
+2020-4-6,1854,Fit an exponential curve to anything...,This is funny because this is how all forecasts work for bullshit bubble technologies.,This must be what all the geniuses on r/dataisbeautiful must have been reading since the outbreak,"The more parameters and parameter interactions in your regression, the higher your R^2 , basically"
+2020-4-27,1837,"It's Meme Monday, so here's a python meme for DS folks","Remember just using np.vectorize doesn't mean your function is now optimized like a vectorized numpy function. That is, you're unlikely to get a speed gain.",Numpy is not well understood by a lot of people. I have seen people use it like a list basically and append results rather than create an array with zeros and then access the index and update the value.,Well now I need to know what a vectorized numpy function is 😂
+2021-4-8,1731,I just got offered a data science internship with Amazon. I've been lurking on the sub for 3 years and just wanted to thank the folks who put together stats/ml cheat sheets.,"Congrats on the offer. Amazon is a great first role, you'll learn a lot. I don't know if they still have the program for interns, but try to ask your manager to help you find a mentor. It makes a world of difference. Good luck :)",Mind sharing some of the cheat sheets?,congratulations! i recently switched to data science and that’s one of my goals. so happy for you
+2021-7-26,1632,Me showing off a suspiciously well-performing model [OC],"At a corporate presentation a consultant showcased how our business can use 'AI' themselves in a BI Tool. He classified an extreme unbalanced dataset and got 96% acc which ist exactly the proportion of the largest category.
+
+But when no one knows about, 96% sounds massive. The Business was amazed.",Pls respond,"Thanks for checking out the comic! This idea came to me and gave me a good chuckle so I decided to draw it up and post it here (but of course wait for meme Monday). I do some other doodles over at r/MachineYearningComics; some are data science-related as I work in the field and others are just kind of random, or dark, or sophomoric."
+2019-12-11,1561,"When you get an Excel Sheet of 1000x5 and your clients ask you to do ""Data Science"" on this with ""AI""","A statistician (through tears): ""Please, you can't just call everything AI.""
+
+Tech Entrepreneur (pointing at Excel Pivot Table) : 
+""AI""","It can be worse. 
+
+My former boss asked me to do ""AI"" on a Tableau dashboard once to ""increase the value-add of the analysis"".",I had this the other day. It was a simple upload into a SQL table that needs to be cleaned. The guy was like each time it will machine learn how to do it? Uhhh no that's not how any of this works.
+2019-9-21,1471,The requirements for these data jobs are getting more and more demanding,How else are you going to connect your ETL pipelines? Arc welding is the gold standard!,"Walks in on first day of Data Scientist job. ""So what am i doin on my first day, some SQL, make a data viz, you want some analytics?""  
+""I want you to weld""
+
+""You...want me ...to what?""
+
+""WELD BOY WELD""",Analytics and Data Analytics? Asking a lot of one person...
+2020-5-17,1467,"A ""Data Science"" company stole my gf's ML project and reposted it as their own. What do I do?","Looks like their website is all reposted stolen content. Wouldn't be surprised if it's bot operated. Blocking the user and domain from this sub.
+
+Another example:
+
+* https://towardsdatascience.com/notify-with-python-41b77d51657e
+* https://www.actionableinsights.org/notify-with-python-towards-data-science/
+
+EDIT: Locked the post. We don't want to incite harassment of ""Dean"" IRL, and the comments appear to be moving increasingly in the direction of doxing.","Surprised that this guy is working for the state government of PA, USA.
+
+Edit: there might be chances of Dean is also a victim of identity theft since everything is so unsure. The goal of the post is not to harass Dean in anyway but to protect the right of the rightful author.",Sounds like a copyright and intellectual property issue.....you’ll need a lawyer.
+2019-9-19,1459,K-means be like: Mine ! MINE ! MINE !,Thats is an excellent visualisation. Haha. 🤣,[deleted],Keep your balls to your self. Boys
+2021-3-25,1397,Alan Turing is the new face on the British £50 note,The terrible things this genius went through :'(,Perhaps the man who both contributed more to computer science and winning WW2 than anyone else.,What are some other computer scientists like Alan Turing?
+2021-8-18,1368,Very proud of my CS book collection.,How many of those have you read? Which would you say are the top 3 most useful/insightful to you in your career so far?,"Top tip, if you sleep on it the information will slowly be absorbed into your body and mind without reading!","I see the hungry caterpillar sneaking in there, respect."
+2020-2-11,1316,when I start EDA on a new project,i'm not sure what an ordinal variable tastes like but i'd sure like to find out,"Oooh, that new data smell.",It really be like that
+2020-10-3,1257,I created a complete overview of machine learning concepts seen in 27 data science and machine learning interviews,Thanks for this! I'm a business analyst who dabbles in ML from time to time depending on the project. This is an awesome refresher and idea starter!,Ooo Saving this and will download into my data science library. Thanks so much for putting in the time to do this! I hope you got the job you wanted,"This is really cool, thank you for doing it. I'm making some coffee and will read it through.
+What's are some of your previous roles?"
+2019-11-23,1220,How much real is it?? 😂😅,"OC: https://xkcd.com/1838/
+
+Keep in mind “we don’t do memes here”
+
+This had a good response before we saw it so it can stay (we aren’t monsters)","the technical term for stirring is ""hyper-parameter optimization""","There’s an old quote that applies -  “If you torture the data long enough, it will confess”, warned Nobel Prize winning economist, Ronald H Coase 
+
+Edit - name"
+2021-4-12,1221,I found a research paper that is almost entirely my copied-and-pasted Kaggle work?,"Send an email to the editor of the journal. Include all evidence you have. CC the department heads and deans at the university(s) where the authors of this paper work. This is academic fraud and it is generally taken very seriously.
+
+EDIT: as others mentioned below, looks like it's a pre-print.  All authors use a gmail address, except the lead. The upload occured from one of the authors with a gmail address.  Searching on LinkedIn the lead is a university instructor. Makes me wonder if this was student project she advised and was unaware of the plagiarism.   In that case, I suppose I might start by reaching out to the lead author on  LinkedIn or via email and see how far that gets you. Next step would be to reach out to the university (dept head and dean).","Holy shit they aren't even trying to hide it. Looks like the ""research paper"" is just a preprint, and it definitely won't be getting published in any reputable journal.
+
+I don't think there's much you can do since they're not in the U.S. and this hasn't been published. You can report their work to ResearchGate to try to get it taken down ([https://www.researchgate.net/ip-policy](https://www.researchgate.net/ip-policy)). You could also try contacting the university or one of the researchers. There's a chance this is one of the researcher's thesis/project and the other ""collaborators"" are just supervisors that don't know it's plagiarized. However, as another commenter said, other countries have higher tolerance for plagiarism.","Yeah, this is bizarre. It's not a published journal paper, it's just a preprint so there is no editor to connect with. If you look up the person that uploaded the paper, he is super sketch, way too many papers he submitted and looks like he is not really affiliated with any reputable school."
+2021-8-19,1207,"The Key Word in Data Science is Science, not Data","I can't tell you how many times I've backed out of writing up this same post for fear of being downvoted to oblivion.
+
+I 100% agree with you.
+
+The only thing I'd say is that the tools themselves make the scientist better, just like a good hammer makes a carpenter better. 
+
+But yes, there is a huge difference between somebody who has perfect aim with a hammer and a true craftsman.",[deleted],"It is also important to understand what that ""science"" thing means.  It means is applying the scientific method to improve understanding.
+
+The steps to the Scientific Method are:
+
+1) Pose a Testable Question.  
+2) Conduct Background Research.  
+3) State your Hypothesis.  
+4) Design Experiment.  
+5) Perform your Experiment.  
+6) Collect Data.  
+7) Draw Conclusions.  
+8) Publish Findings (optional).
+
+You also are NOT trying to prove the hypothesis.  Let the facts speak for themselves and getting a clear example that invalidates a hypothesis is a powerful way to improve understanding."
+2021-6-20,1131,"Hi! I just expanded the Data Science Cheatsheet to five pages, added material on Time Series, Statistics, and A/B Testing, and landed my first full-time job",Wow! Thank you!,Jumping in to say that your sheet just might have got me my current job - was excellent to have to hand for Zoom interviews. Legend.,"This is an excellent resource for reviewing ML concepts, but I don't think calling it a DS cheatsheet is helping. There's already enough people thinking DS = ML.
+
+A true DS cheatsheat would have sections on how to solve actual business problems, common KPIs, how to build and evaluate data/ML pipelines, etc. I know you said the purpose was to tackle things that are common to all DS positions, but IMO the things that are common (ML algorithms) generally make up a very small portion of any one job. Even in the interview process I find case studies + coding + SQL + behavioral questions to be the majority of the questions."
+2019-11-12,1114,"""If you torture the data long enough, it will confess to anything."" - Ronald Coase, MIT [250 x 110]","Just teach me how to torture data like that, so my clients can stop torturing me!","A good KGB/CIA/Gestapo/Mossad/etc officer knows that torture provides unreliable information and you need to verify it to be able to distinguish bullshit from factual slipups.
+
+This means looking at reliability over time (does the story keep changing), reliability between sources (do different people have the same story), is it supported by other evidence etc.
+
+Basically interrogation techniques are exactly how we do data analysis with validating, cross referencing to prior knowledge etc. In a dystopian society we'd make excellent secret police officers.",">And that's a good thing 
+
+\-Head of VP Product Data Driven"
+2020-1-26,1072,How to learn data science “best practices” if you’re the only data scientist at your first job?,"I dunno if this helps but look through these links -
+
+1. https://github.com/EthicalML/awesome-production-machine-learning
+2. https://github.com/alirezadir/Production-Level-Deep-Learning
+3. https://github.com/firmai/industry-machine-learning
+4. https://github.com/chiphuyen/machine-learning-systems-design
+
+These are all resources focused upon putting ML into production and might help you out.","OP’s question should be upvoted because it’s very real for many data scientists that are hired by companies who “haven’t had anyone like this before.” 
+
+If you’re truly going to a well known tech company then  you have plenty of opportunity to cross pollinate. This is untrue for many data pros who aren’t at large tech. 
+
+I don’t have any specific advice other than the fact that you’re worried about it in the first place is the most important. Anyone who has that attitude and fear of mediocrity will find the path to betterment. Because just being okay is never going to be enough regardless of the team you’re on.","For production level code, you should be able to learn from other engineers at the company. Pay close attention to when they talk about topics like readability or how hard it'll be to maintain/operate the code over time. People transitioning from school usually over-value code that looks impressive or is clever, and undervalue making it easy to update the code, read the code, diagnose weird behaviors at all hours, deploy the code easily, etc. At a higher level, people starting out tend to overvalue the technical and undervalue interpersonal skills. Ask for feedback early and often.
+
+Work on meeting a few people in similar roles in other companies - meetups can sometimes help for that."
+2019-10-16,1059,An easy guide for choosing visual graphs!!,"I suppose you are not the creator but it would have been nice to give credit to the person who created this infographics in the first place (Dr. Andrew Abela).  Like in the first place that I saw it ( https://eazybi.com/blog/data_visualization_and_chart_types/ )
+
+The creator even took out the copyright. 
+
+And btw there is a newer version https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html",they forgot boxplots and violin and bean for Distributions,Getting internet points on /r/dataisbeautiful while knowing nothing about viz -> Bar Chart Race
+2020-6-8,1041,Useless tutorials and blog post will NOT improve your CV but WILL waste our time,"Yeah, this kind of stuff takes up a ton of the moderation effort (second only to ""How do I become a DS?"" posts), and we often get a lot of flak when we do remove them.
+
+On the other hand, academic material should mostly go somewhere like r/MachineLearning or r/statistics.
+
+As a general rule of thumb, the kind of content we love in the subreddit is the kind you might have around the water cooler at work or in the hallways of a conference.  In our view, the subreddit should basically be like a ""hangout"" for data scientists.",And then they host it on Medium with a paywall...,[deleted]
+2021-6-7,1014,"Data Science and Data Analytics is becoming ultra glorified / romanticized, and I don't think people are really told what they are getting into.","Lots of companies also think that Data Scientists are magicians. You see how AI does amazing things on the news, like facial recognition, and they think to themselves, ""Wow, I could hire a data scientist to solve all my company's problems"". So they hire and ask you to build a model that can predict the next year's stock prices.",I’m actually considering switching to data engineer to be done with some of these frustrating parts of the job. My biggest issues are always around data quality and data completeness. It’s demoralizing to not be able to do my job because the data is absolute garbage or there is little to no infrastructure to support data science work.,Data science is different now (https://veekaybee.github.io/2019/02/13/data-science-is-different/) still relevant and eloquently talks about this
+2020-3-20,977,"To All ""Data Scientists"" out there, Crowdsourcing COVID-19","'COVID is bigger than anything I write about here, and tech itself is mostly slowing-to-shutting down this week. But, there are still interesting things happening. Stay at home and catch up on your reading. 
+
+Note: I will not be linking to Medium posts full of charts created by people who could not spell epidemiology two weeks ago. Other people's jobs are hard too, and in times like this it's important to know what you don't know.'
+
+This is from Benedict Evans' (of a16z) blog. I think the second paragraph is especially important in this context -  I can think of no better way of putting the point across. Especially true for people taking part in Data Science challenges and pretending to 'help'.","So here’s some areas DS/tech can help with, if people are inclined to help. 
+
+* Reports are coming in PDFs from WHO and there are people out there trying to collate those into data sources that can be used as a data feed. 
+* local areas especially are reporting data at a level that’s hard to be useful at a national level, but is very useful locally. 
+* Building submission forms - most communicable disease reporting to states are still done via paper.
+* Data presentation/visualization NOT forecasts or prediction
+
+If you are doing modelling, make sure to put a giant caveat if you have no epidemiological experience.","Hey guys, I want to just voice my opinion here too. 
+
+MODELING AND FORECASTING COVID-19 IS NOT USEFUL TO ANYONE. There are tons of people who are doing this who are way more qualified than any of us. Nobody is going to listen to you and you will not make any impact, they will be listening to experts.
+
+ So, how can we help? Try and think what you can do for your community! Can you organize donations to restaurants to make curbside deliveries to senior citizens? Can you organize donations of DIY medical equipment to hospitals? Connect tailors and fabric manufacturers in your community to make PPEs? [Connect distilleries to hospitals so the distilleries can produce hand sanitizers for the hospital](https://drive.google.com/open?id=1nJiPDbuiekMvNwOnbTdM3XRWOEQUrbSz&usp=sharing)? There is so much stuff that actually has an impact that you can do, just as someone with any degree of technical skills (web scraping, deploying shit). You can definitely help, ***just stop making medium posts about your model that predicts the same thing as every other model using code you borrowed***. Try and think how you can help your community instead of adding fuel to the panic"
+2020-4-14,975,20 Best Libraries for Data Science in R,"Violates rule 5, but I'll let it go since it looks cool and I've never seen it before.",Is the premise that more commits = better or is that just coincidence?,"I prefer caret over mlr, if I want sklearn format I'll just use sklearn"
+2019-4-10,966,Everyone's reaction when I tell them what I do...,"This one can stay - friendly reminder to those now tempted to follow up with more memes that we don't want the forum to be overrun with these and I'll delete any more that pop up today.
+
+&#x200B;
+
+Thanks!",I just say I'm an Engineer that works with data and hope by that point they're so bored they change the subject.,">introducing yourself
+
+>not using buzzwords ""machine learning"" ""artificial intellgence"" etc."
+2019-6-30,956,Working with huge data be like,"inb4 Stay On Topic reports 
+
+https://imgflip.com/i/34o5kw",remove any rows/features which dont bring you joy,Does it (Apache) Spark joy?
+2019-1-10,951,Don't be this guy. (x-post from r/programmerhumor),How else am I supposed to get my boss to buy me new toys? ,This is every recent data science grad I interview. I think they're getting the wrong message in class.,What's a good example of this that you've seen?
+2021-6-1,961,I’m so sick of corporate morons,"For awhile I felt like 80% of my job was convincing people they don't need deep learning. One time people wanted NLP to analyze their survey responses. After an hour-long meeting they revealed that they had 23 surveys. I was like dudes, in the course of this meeting we could have read every survey response five times.",The fact that you even know what you think you’d need to ship these things shows that you’re the right person for the job and they’re way out of their league.,"More stories please 
+I love these kinds rants"
+2021-2-15,935,Please STOP asking Data Scientists about Leetcode questions meant for Software Engineers for job interviews,"I’m a software engineer who worked on a data science team for a while, and I have to say, the sheer amount of stuff someone with the title data scientist is expected to know is a bit overwhelming.","I’m not surprised most companies get little to no value from their data science efforts. I would argue casual inference and experimental design is more important and useful than predictive modelling in many cases, but nobody really cares or asks. Domain knowledge is also key so you know you’re solving the right problem. It’s a damn shame, as the view of data science has become very myopic these days.","To be fair, Leetcode style questions have little to do with most of what SWEs do as well but they still interview each other using that format. 
+
+It's a broken system for sure but it's also not that hard to learn enough just to pass technical interviews."
+2021-2-10,917,Remember to stop every once in a while and think about how far you've come.,"Yep. I used to loop through rows of data frame to find the minimum value. 
+Have come far from that. 
+
+But imposter syndrome is always there.","In my last project, I was actually the “least skilled” member on my team. I say this as objectively as possible, even though I have been riddled by imposter syndrome from time to time. The team and I were able to successfully build a trained agent to play a game through some very complicated data infrastructure. From this project, I learned quite a bit include Docker containerization, Git branching, Azure and Object oriented programming.
+
+In my current project, I am able to use the skills I learned to create value for my team where we’re building an end to end data pipeline for geospatial analytics. I came woefully prepared for it due to my past experiences, and was able to offer immediate value for the project. My project manager was already surprised that I completed half of my assigned tickets in one day. 
+
+So even if you are actually the weakest link in the team, don’t let that discourage you from growing professionally. You’re capable of doing the work and there is a reason why you initially joined the team. Make every “failure” an opportunity to grow because you’ll be surprised with how overlapping some of the necessary skills will be in your future opportunities!",Wholesome. Cheers mate.
+2019-12-26,918,Christmas gift from girlfriend. Can't wait to read all. Hope everyone here had a blessed holiday season!,R Graphics Cookbook is an incredible resource for data viz,[deleted],"Damn, you use R and your girlfriend still accepts you?
+
+Just kidding. I respect your alternative lifestyle choice."
+2021-5-28,909,First two weeks of my first internship,"Congratulations!! Keep us updated on your professional growth!
+
+RemindMe! 3 years","I feel you man.
+
+I came to Europe from a country in the middle east, where we dont even have electricity 24/7...
+
+I had no work experience after graduating from my Bachelor in Civil Engineering and minimal coding experience in Python.
+
+I started learning Python from scratch on my own on my first few days in Europe, then received a DataCamp account. Started my course on Data science. Then I secured a first summer internship at a big 4 without a salary. I said to myself it is fine, I gain experience now, maybe later I can find a job. Then I got a second internship on december 2020 at a second big4 until april 2021.
+
+Then to my luck, I got recruited by a company as a Data Analyst and got my first official salary a few days ago.
+
+It sounds stupid to many, because they are fortunate to live in good countries. But for some of us it is a true accomplishment. **So be happy**! 
+
+And for sure stay with them!!","Congratulations on that. I am literally in the exact same boat... I didn't grow up in a rich family and for the first 10 years of my working life, I made less than 25k working dead end jobs. I just got my first paycheck a couple weeks ago and I was just like ""holy shit.... im getting THIS every 2 weeks???""
+
+Its a good feeling and im happy for you to be feeling it too."
+2020-12-6,908,Landing a Senior Data Scientist Job After 6 Months of Unemployment,"This is an incredible post. Thank you so much for taking the time to put it together. May I ask how you put together your LateX resume (specifically the template)? Also how did you prioritize learning how to ""do"" data science vs learning how to interview? I get the impression from posts here that they are almost different things entirely.","Did you get an offer from a startup? They can be loose with titles. Otherwise a MS in stats won't get you a senior level position unless you are really really really good at all DS things or have been a SDE for awhile. Congratulations though! The journey is tough. If I were you I'd stay there for as long as you can because if you have the senior title, you will need to be at that level for your next position.","This is well written, but certain things seem off about this as other have pointed out.
+
+Think twice before you fill in any forms and give him your email and LinkedIn."
+2018-12-30,891,Thought y’all could appreciate this as well.,"A had a client do something similar on the last one.
+
+Asked them their operating ranges commonly used and kicked a +/- 50% buffer zone for healthy models.
+
+6 weeks into DOE for a fracking well they decide to kick it out of bounds to see the ""robustness"" of the model.
+
+Like, no dude. We put a 50% buffer into the DOE for that. Stop. No. Don't expand further.
+
+""Well I want to operate in these ranges.""
+
+FUCKING TELL ME THAT SIX WEEKS AGO.....!
+
+Guy has a PhD from MIT btw.","Tag yourself. I'm ""Confidence Interval""",https://xkcd.com/2048/
+2020-2-25,888,Python package to collect news data from more than 3k news websites. In case you needed easy access to real data.,"Nice, thank you!","Was thinking to add an option to [extractarticletext.com](https://extractarticletext.com) in the near future that allowed users to automatically extract text from specific news sites. Initially was going to use Bing API, but using feedparser definitely seems like a better bet. Cool project, starred on GitHub :D",You beautiful son of a bitch I gotta try this
+2020-9-8,856,Experience/Advice from a 10+ year data scientist,"This is a fine post with good advice (especially #5 and #6). However, #1 and #3 are not realistic for a lot of people, and that’s OK! Nothing against OP, it’s good to encourage those habits, but I always go back to [this post](https://www.reddit.com/r/datascience/comments/hohvgq/shout_out_to_all_the_mediocre_data_scientists_out/). I don’t do these things often, and I’ve gotten better jobs and moved up just fine because I’ve made an impact at every company I’ve worked for. I’m not doing anything complex or coding much outside of work, I’m just finding ways to solve problems with data and communicating those well to the stakeholders. 
+
+One thing I’ll add is that I’ve found I like to be the star of the show at companies with immature data science cultures. It’s a lot more fun (and easier) to impress people with relatively simple solutions. I’m not sure I would suggest this at the very beginning of a career because those places also might not have a good structure or talent to provide solid DS mentorship. But it’s nice when people are looking to you for answers and trust your work. 
+
+Just my two cents and probably doesn’t apply to everyone.","Thanks a lot for this advice!
+
+May I ask what energy-related data science work you did? I've been in the energy industry for about 8 years and am about to transition into an electricity market-related data science position. I'm curious to hear what others in this niche do and what the career opportunities are like.",What does sql want with my dad? I'm confused.
+2021-3-12,847,Can't land a data internship? Try volunteering for a political campaign's data team,I have to say I would have never thought of it. So good for you to share it.,This is thinking out of the box. Great suggestion!,"I work for a company that does a lot of work with political campaigns. I am looking at new positions and it turns out I have a lot of inroads with campaigns and other political agencies.  They are hiring a lot of data scientists these days after 2016 showed how impactful it could be.
+
+BTW, we're hiring.  If you live in California, know some JS and are interested in nlp, pm me."
+2019-7-10,844,It's like the notebook but with more tears,"This is brilliant, but the correct title for this movie is Untitled42-final-final-v3.ipynb","```
+merge branch `thinking_of_you` into `master` - 3ad229bf9a0f15f0178aac4ff4286d57662e1ef2
+```","I would watch this, it would work both as a legitimate romance or comedy"
+2021-8-26,839,Help me understand what I’m doing wrong,"Today is not Meme Monday, but I'll allow it.","Okay so first off, wait for a rainy day. Data, like rain, comes from the clouds.
+
+Follow the flow of the water to where it pools. This is your data lake.
+
+There should be a restaurant nearby. Find someone carrying food, and spin up the server.
+
+Hope this helps!","You're approaching the wrong people. Go find pirates, they speak R. 
+
+I'll show myself out."
+2020-5-8,837,"I'm sick of ""AI Influencers"" - especially ones that parade around with a bunch of buzzwords they don't understand!","**Let's be careful with linking directly to identifying information.  Public LinkedIn profiles are not the same as being a public figure.**
+
+As for your saltiness, I am going to take the rare step and return some back at you:
+
+Are you upset because you think this behavior is hurting the field, or are you just jealous that you aren't as successful at selling yourself, despite being (in your mind) a better product?",post is this meme come to life: https://i.redd.it/5g92tkzq2tp41.png,Well you have these people in every field. Anyone who knows something will never say anything and those who know nothing always say something.
+2021-8-11,836,An interesting job posting I found for a Work From Home Data Scientist at a startup,"Bruh, that's a lot to ask for free",Gain access to GIGABYTES of data? How exciting!,Am I free to post all their data on internet then? No money = no contract lol
+2018-11-1,832,Data is useless without labels. Compliments of XKCD - Thought you'd all appreciate this one,Link for those not familiar with XKCD: https://xkcd.com/833/,"It's clearly ""Percentage of the time I loathe you (per 1,000 people)""","Alt text: ""And if you labeled your axes, I could tell you exactly how MUCH better."""
+2020-12-28,821,It seems a lot of people want to get into the data science field without having the slightest idea of what it actually entails,"I understand people who want to change fields and become data scientists. Data science requires at minimum strong coding skills in SQL/Python/R, data visualizations, machine learning algorithms theory and implementation, and statistics. It is not something one picks up in a 2 week bootcamp. Come interview time, you would regret thinking that!
+
+To get the job, two things matter most, the resume and interview. Resumes must list all the key data science skills, past work experience using data science, and value delivered. The interview can really cover anything. Resources for interview prep include [ML Interview Prep](https://www.aceainow.com), [Kaggle](https://www.kaggle.com), [Leetcode](https://www.leetcode.com), [Hackerrank](https://www.hackerrank.com), blogs with sample questions like Analytics Vidhya and [KDNuggets](https://www.kdnuggets.com).
+
+For those who are just starting, there are more resources than ever before. I personally like An Introduction To Statistical Learning With Applications in R. There are plenty of online courses from Udacity/Coursera/Datacamp and others to get started with.","I'm one of those people that kind of stumbled into the field by chance. I have a degree in finance, but no formal education in CS. I started programming as a hobby during uni, and one of my professors by chance just hinted that I could look into data-science because it's a blooming field. I didn't really think about it too much at the time. Shortly after graduating though, I started investing more time into learning programming, then SQL, machine learning etc. I started doing some projects and as I got deeper into the field, I realized that I really enjoy the process, I like working with data and could see myself doing it for the long term. 
+
+I do think it's a bit odd that there are people who don't seem to particularly like coding or working with datasets or mathematics, but want to get into the field. Maybe they like the idea of doing data-science (and believing it comes with a good paycheck?) more than they like the field.","Agreed! Having worked in data science- adjacent fields I can confirm that there are lots of self-professed data scientists with a vague understanding of the fundamentals. Fortunately for them, plenty of those hiring ‘data scientists’ really only want some basic skills to impress. Using terms like ‘data mining’ or ‘algorithm’ sounds impressive to lots of folks including those hiring self-trained data scientists."
+2019-7-23,818,"Wow 😲 , Lyft just open sourced its autonomous driving dataset from its Level 5 self-driving fleet!","Oh hey, more awesome stuff I have no time for :(
+
+Edit: if you hire me I will slam all the things.","This is actually pretty big news! Reckon they're trying to find anyone who does better than they do, as if to find some new workers?  😉",Anybody know how big the files are?
+2020-9-29,809,Data Scientist = Web Master from the 90s,[deleted],"Exactly! I read way too often around here people using data scientist and machine learning engineer interchangeably. There’s so much more than that. My background is in math so I write scripts that do statistical stuff. After a database guy sets up everything, after a ml person builds models, but before a tableau person makes it all look pretty. 
+
+If someone’s good at all of that then great! Everything seems to be getting more and more specialized though and that’s going to lead to more and more people focusing on specific things.",Problem is most employers don't have well defined responsibilities for a DS. You'd probably be expected to do a thousand and one things in a company that has a messy DS department.
+2019-2-8,796,"3 years ago I discovered Data Science, this sub, and decided I wanted to become one. After two stepping stone jobs, a Masters Degree, endless advice from here, and tons of rejection (see image) I've finally done it!","Tools: http://sankeymatic.com/
+
+Data: Self-gathered data on interview process, kept in a spreadsheet.
+
+Time: 2 months of applying after completing my MS in Statistics in Dec of 2018
+
+Location: NYC
+
+Title: Data Scientist (Predictive Modeling)
+
+Background: 3 years ago I discovered this sub, and dabbled in statistical modeling during my undergraduate degree (economics.) I greatly enjoyed taking data and making predictions out of it, and saw that I could do it for a living as something called a Data Scientist. After countless rejections with just a bachelors and my lame job that was analysis in Excel, I decided to enroll in graduate school and obtain my MS in Statistics to improve the statistical skills I had. I also moved to a job involving large databases and SQL, as I heard countless times that SQL is important in any data analysis role.
+
+The hardest part was definitely breaking into the field, as most jobs required 1+ years of experience doing predictive modeling in past roles with R and Python. However, during school I spent a lot of time on my personal projects, and dedicated myself to becoming fluent in R and Python. I also worked really hard on my soft skills, such as communication and business acumen during my two jobs. My projects, these soft skills, and my machine learning knowledge had the best feedback during my interviews. Believe it or not, there is still a huge demand for the field (at least in NYC), as both jobs that I landed required 2-4 years of experience.
+
+EDIT: You guys are awesome, thank you for the overwhelmingly positive response! My inbox is blowing up on people asking for advice - I will try to answer as much of them as I can. ","Taboo question (but it shouldn't be, especially since we're anonymous), what's the pay like for entry-level DS in NYC?","7/8 on coding challenges!! Good for you, congrats on the new job. "
+2019-5-30,798,"Data Scientists spend up to 80% of time on ""data cleaning"" in preparation for data analysis, statistical modeling, & machine learning. Post Credit: Igor Korolev","IMO this is a large part of the reason data science/analytics aren't yet ready for self-service at the vast majority of companies. 
+
+Data cleaning/prepping is a critical skill and a hard one to teach a computer since the rules for cleaning are found outside of existing lines of code. 
+
+The day this hurdle is overcome is the day self-service becomes the norm.","I just started an internship in NYC as a data analyst for a data company that manages marine traffic imports and exports for oil and petroleum. Basically my entire job is going through their data tables and manually diagnosing problems such as typos, incorrect dates, wrong location, etc. This is an extremely tedious and repetitive task and I was wondering if anyone had any ideas of how to automate some of these tasks using python. I know there are libraries such as pandas and numpy that help with automating data cleaning, but I’m not sure exactly how to do it. Btw they use Postgres for their database management.","Dumb question: what part of the process exactly is considered data cleaning? Is it a loose term or something specific that data scientists refer to.
+
+There are parts of my workflow where I have to figure out a ""fix"" because of weird traits in the data (eg. I work on hyperspectral remote sensing and often times the spectral channels are different between different sources of data). Other times I just have to figure out more basic things like how the data is stored/formatted or identify some outliers/bad data that need to be removed. They all feel like ""data cleaning"" to me, but I've never been entirely sure it is what everyone else means."
+2019-11-4,789,Looks like i have a lot of studying to do.,"Honestly, if you understand the most fundamental linear regression, or ordinary least squares, you’ll be able to easily understand most of the rest. For some of them, you’ll have to study a little more, but not as much time as you should spend on the basics.","Spend months learning every ML algorithm
+
+Get an interview
+
+""Yeah we mostly just use linear regression. Okay time for the coding challenge, can you invert this binary tree?""",[deleted]
+2021-4-29,787,Thank you r/datascience & r/dataisbeautiful - you guys helped me get my dream job! ❤️,"I am very happy for you, OP! Best wishes in your new job. Never give up.","Congrats. Do not disappear :D keep lurking, and posting and commenting and perhaps circle back in 6 months to tell us how the job is going.","Dude exactly the same story as you. Came from non-com-sci background, found myself with some spare time during Covid, levelled up in my spare time (SQL, Tableau, some basic Python) and got a Jnr Data Analyst job 10 months ago. You're going into a great industry: just keep upskilling on your job and in your spare time (if you feel like it) and the skies the limit ;)"
+2021-2-23,768,My first technical interview experience(22+ interview questions),"I would bomb this, my spot recollection of specific technical information is pretty poor, especially if I were getting machine gun quizzed. I have 3+ years of DS experience and at my company have reasonable business impact. 
+
+I'm also shocked you were able to remember or otherwise write down these all questions during a 45min interview.","I think for #2 he just wanted you to explicitly say we do some sort of feature selection or dimensionality reduction to deal with the curse of dimensionality, especially after saying he wanted to do a linear regression.","Great post.  I can tell you, as someone who has been a ""Data Scientist""  since 2011  and a few years of remote sensing scientist before that, that you did significantly better than I would have.
+
+Do most people run into interviews like this?  My experience hasn't been this way.  I've had to code and solve problems but they're rarely 
+questions like this.  These are the kind of thing I'd look up when trying to solve a specific problem but wouldn't know offhand.   Usually the questions have been more in line with being given a data set or SQL table and having to solve various things, write functions to accomplish a task, or solving expected values of some various problems.  Admittedly, I havent interviewed seriously in 5 years, but I know there is no way I'd pass this without some serious brushing up.
+
+Nice job, seems like you did well!"
+2020-8-6,768,Scientists rename human genes to stop Microsoft Excel from misreading them as dates - The Verge,"Me: Excel, this is a string of numbers, don't apply any formatting.
+
+Excel: No","So, to provide insight from someone who is doing bioinformatics for my PhD (since a lot of comments seem to think this is an issue for the bioinformatics/comp bio people themselves):
+
+This is not a problem bioinformaticists *cause,* per se, or something that really affects our work *if we are given access original raw files*. Standard tools in bioinformatics include R, Python, etc. No one directly involved in the field uses Excel for any ""serious"" analysis. We can all program to some extent.
+
+What *does* happen, however, it that we have to pass data on to wet lab biologists - i.e., the people who actually perform experiments. This group of people generally cannot program at all or have a very, very limited understanding of how to run (not *write*) scripts that are written for them. They also generally do not understand the concept of file formats beyond Word vs. PDF vs. Excel, etc. The idea of csv, tsv, etc. is not something they are familiar with.
+
+The ends up causing the following chain of events:
+
+1) Bioinformaticist run RNAseq analysis, ultimately generating a table of gene counts with samples as columns and genes as rows. This is saved in a txt or csv file. Associated plots are generated to display results (heatmaps, volcano plots, etc.), and the final output table with adjusted p values, fold-changes, etc. from differential analysis is produced and saved as a txt or csv.
+
+2) Wet lab biologist wants the raw counts table in addition to the figures and final output table. This is absolutely fine in concept. They should have the raw table too!
+
+3) Bioinformaticist shares (via email or a cloud storage system or what have you) the files as the original txt or csv.
+
+4) Wet lab biologist wants to make this easier for them to see. Keep in mind, they cannot (by and large) use R or Python, so they use Excel. They then save a copy for themselves as an Excel workbook, so they can sort, conditional format, etc. This results in several gene names getting converted to dates; however, given the human genome is 18-20,000 genes, and some of the oddly named genes are not super popular to study, this goes entirely unnoticed by the wet lab biologist (who may or may not even know this is an issue).
+
+In the end, the chance of this issue getting addressed by the wet lab biologist is slim to none - this has been a documented issue since microarrays were standard technology. So, in order to prevent it from even occurring to begin with, the computational people have taken it upon themselves to fix by just changing gene names/annotations.",This is funny because gene and protein nomenclature is sooo inconsistent across different databases. Having excel read genes as dates is literally a drop in that the ocean of redundancies across genomic databases.
+2020-3-23,760,Beginner project for SQL. This is a simple python script to scrape stock prices off NASDAQ API and feed it to MySQL.,"This is such a nice beginner project. Good job.
+
+Some suggestions for improvement:
+
+Don't commit after each SQL line to make it more efficient. (Just add a semicolon on line 54, switch = to +=. Finally, move all the lines that follow  one tab to the left. 
+
+Also close your DB at the end. Line 64 one tab to the left.
+
+Some suggestions of things you can add to make it simpler to use:
+
+\- Allow multiple symbol entries at once. Hint: use split function which puts the symbols into an array.
+
+\- Read symbols from a file: This way you have a config file you can easily adjust without touching your code. In half a year you won't know everything that happens here so it's easier for yourself.
+
+&#x200B;
+
+There's some more things I'd change but as this is a beginner exercise it's good enough for now.","Very nice! I would recommend the following steps if you're looking to improve your code :
+
+1. Abstract your API calls and dB statements into functions - put in arguments in there to see how that part functions.
+
+2. Try looking into how you can run this on a schedule / on a trigger of some sort.
+
+3. Look into the Pandas library to look at some kind of rudimentary analysis you can do on your data.
+
+Best of luck!",[Github Link](https://github.com/kianweelee/Stock-price-scraper-for-SQL)
+2020-2-1,759,Congrats! Web scraping is legal! (US precedent),Yay! Now I can do my projects on something besides a dummy website,">""US court fully legalized website scraping and technically prohibited it""
+
+I had to read the article a few times before it occurred to me ""it"" refers to creating obstacles to scraping. :D","Oh, I didn’t know it was illegal this whole time😬"
+2021-2-6,748,Is anybody else here trying to actively push back against the data science hype?,"If you don't already have a team of data engineers and business analysts, you don't need a neural network. It's like when a child demands a ""dinosaur rocket ship machine gun superhero fire engine"" for their birthday.","I had an interview for a DS position the other day.  I was prepared to talk about my experiences with ML, NN, and past projects. Instead it was an hour long technical discussion on basic SQL. What is a case statement?  What are the different types of joins?  How do you do filter a table ( WHERE )?
+
+This was for a senior position leading a team of 7 Juniors.","This is true in all technology (obviously a generalization), not just DS. Smaller companies tend to be especially crazy with their pie in the sky thinking.
+
+Anything that gets industry/media buzz but has underlying technology the lay business person doesn't/won't understand is vulnerable to this.
+
+Companies will then want their own ""cloud-based api connected predictive analytic engine"" (for $500) because they've seen those buzzwords a lot in the last 6 months and want to keep up with Jones."
+2020-12-10,747,'A scary time': Researchers react to agents raiding home of former Florida COVID-19 data scientist,"Before this post gets deleted by mods, I think it's important for *everyone* here to reflect how their positions can easily be manipulated by those in power.  Listen to Trump talk about the election results and you can hear him use phrases like how ""statistically impossible"" it was for Biden to win.  You don't think he has some ""data scientist"" behind him feeding him everything he wants to hear?
+
+It's depressing the amount of people justifying the raiding of this woman's house, because she \*allegedly hacked an IT system and\* published privledged information (which is very much in dispute).  She published it because she was asked to do something immoral, to fudge the numbers of Florida's COVID cases to help Trump win reelection, and I hope everyone here would do the same.
+
+\*edit: added a sentence so people can stop arguing semantics and ignoring the overall moral of my post.",What the duck is happening with the US?,didn't she say herself in interviews that she's neither a hacker or a data scientist???
+2021-4-2,748,"Against the negativity here, I just received my $200k salary offer in just 2 years (even in this economy)",The negativity is mostly around entry-level jobs (i.e. 0-1 YoE). I don't think (on average) applicants with 2+ YoE are finding the job search process nearly as harsh.,"Yeah, FAppleNG DS roles pay 200k base at staff level, but even at senior you get 200k cash. Plus total comp reaches 200k+ at just regular L4 (i.e. one promo after newgrad level). And that's not even for ML-heavy or pseudo-SWE DS roles.
+
+Yes yes SWEs usually earn more, but if you don't enjoy the role and aren't good at it, why try for that when there are plenty of well-paying DS roles out there.","I got a job offer back in late July for $230K, so no there is no problem in the market if you have the experience. I don't understand how many times this needs to be said for everyone to fully comprehend it, the data science market is over-saturated in the entry-level positions, because there is a lot of hype over how much this jobs pays, so a lot of people went to school for a DS master, a lot of people went for a boot camp, a lot of people who are doing a Ph.D. dropped their program, peopled who already finished a STEM Ph.D. and have the qualification, to people who watched a video on self-driving cars, all those people want data science jobs. There aren't just that many entry-level jobs, but for people with experience? I have almost 10 years of experience including my Ph.D., so I didn't need to look for a job, my last job I just replied to a recruiter on linkedin."
+2020-10-26,740,I'm a Senior Data Scientist at Disney and I'm hosting another free Data Science Q&A session this Thursday @ 5:30 PM PST,I attended your last one! Look forward to this one!,I wish I could go but I have class at that time. Will this be accessible to watch later?,Do you post recordings somewhere?
+2019-9-11,739,This video shows the most popular programming languages on Stack Overflow,"I was quite surprised to see Python rise to the top even beyond Javascript, PHP and Java as they are arguably the key languages for web and mobile development today.
+
+What, do you guys think, is the reason for this?
+
+Obviously, modules such as Tensorflow and PyTorch must have inspired a lot of people to give Python a go and TF certainly inspired me to ask some (a lot) of questions.
+
+Could it also be that Python is used for testing new algorithms or by beginners and therefore a lot of questions are asked? What even are the most typical scenarios where Python is used?","Go R, go!","If you look carefully, you can see where I was in my master's program by when R questions exploded during 2018"
+2020-8-15,724,Amazon's Machine Learning University is making its online courses available to the public,"I only skimmed the article, but  I am hoping that this can cater to more intermediate-advanced knowledge in the field. It feels as if there is almost too many sources for beginners, but that higher-level processes are often still siloed within Academia.",Pro-tip: Amazon doesn’t hire ML people who have passed through their ML university,Are the courses free ? Or is any financial aid available for them ?
+2021-7-10,725,Anyone else cringe when faced with working with MBAs?,There should be five years of real world work before getting a MBA,There are good people with MBAs and there are people with MBAs that suck. Try to find the jobs that hire the decent MBA grads…and decent people in general.,Well i dont like dipshits of any major but if the mba guy is good at his job then I have no issues with him.
+2020-10-15,715,If you needed yet another reason to convince you that Excel is terrible for data science...,Excel is terrible for data management and storage. It's not terrible for data science. It's like using a hammer to put screws in. It works but it's not what its meant for. You have to know when to apply the right tool.,"I don't use Excel all that much, but I wouldn't call it a terrible tool.  It has its purpose, but as with any tool it's not always the right tool for the right job.  A hacksaw is a terrible tool to screw a nail with.",Also it was excel 2003
+2021-5-3,710,I'm a Senior Data Scientist at Disney and I'm hosting another Data Science Q&A session this Thursday @ 5:30 PM PST. I'll be joined by an Applied Scientist at Amazon!,Is Susan a nickname?,"If you are interested in seeing what these sessions are like, I’ve shared past Q&A sessions on my YouTube:
+
+ https://youtu.be/Fctma0S3XuE","Please, please, pretty please record this. I can't attend because of health related problems but I want to watch it really bad. Please."
+2020-10-6,711,Haiti had its first data science bootcamp,Congrats!,"I was in the Dominican Republic last year, and it was uncomfortable how the locals I chatted with would constantly degrade the Haitians as uneducated farm laborers. I had no idea they would be so dismissive of their island neighbors. Clearly a sign of my own ignorance, but it was pretty disheartening honestly. To think that it’s 2020 and this was the first Data Science boot camp in the country. Clearly there’s a lack of educational opportunity there for anyone wanting to enter these fields. I hope there’s more opportunities like this in the future.","Go, go! 😃"
+2018-11-9,715,GDPR: you can’t even make a list,"And since we all know that Santa is living in Rovaniemi, Finland, within the EU, the GDPR definitely applies to him.","But maybe he's not? 
+ https://worldbuilding.stackexchange.com/questions/114033/how-can-santa-keep-his-lists-when-the-gdpr-is-around",I believe it should say article 5: “Principles relating to processing of personal data”  and not 4 which is “Definitions”. 🤓 Still upvoted.🆙
+2020-11-17,711,A little advice after 15 years in this field as an industry practitioner and academic.,"This is great.
+
+It's exactly why I discourage people who come to the subreddit asking if they should quit their job and do a DS bootcamp.","Too many just want to throw data at software and hope to get meaning out of it, without understanding the industry the dataset was about, nor the techniques employed. 
+
+BTW,  data sourcing and reorganization is half of the project.  Get involved at the very beginning of business system development projects will make your life much easier.","This might be a very specific question, but I would love your thoughts. I’m in advertising/marketing and my role is data heavy from all the information we get back from our campaigns. The issue is that the  industry (agency/client side) has no strong desire to implement machine learning. It’s more about high-level insights we can provide to clients. 
+
+That said, I could certainly use these datasets for ML, but it just wouldn’t be used/applied at this time. The bonus is that I have multiple clients in various industries and have a strong understanding of said niches like you mentioned.
+
+If I get a Masters from a top school and come with this level of experience, how hard do you think it would be to transition into a DA/DS role? 
+
+For reference, I’m not a DA but have made an effort to be hands on in the process since I started my career. I have a good understanding of the tech and process at that level. (SQL/R/Python/Tableau)"
+2020-9-20,708,We're data scientists planning a virtual career fair for other data pros during COVID-19. Looking for a job? Looking for help?,"Everyone here is great. Thank you for the positivity.   
+
+
+**If you run a company that would want to participate in this, also let me know.** That question came up and I'm more than happy to find people on both sides of the hiring table.",Total data science beginner here .. could I join the career fair to see my future career prospects ?,"Are any of them interested in hiring some interns? I'm a Mechatronics Engineer student, I'll graduate soon, but I  really like data science and it would be awesome to have the opportunity to work in the field"
+2019-7-26,703,How I built a spreadsheet app with Python to make data science easier,"Update: Wow, I didn't expect this amount of positive reactions. I'd love to take the idea further with community support and keep it alive in the open source realm. Let's see where it goes. Be sure to report any issues you encounter so we can keep improving.",this is such a good idea I'm surprised it hasn't been done before. I'd love to be able to manipulate data in a spreadsheet in the same app I use to write queries and vice versa.,This is way cooler than I expected. Nice work!
+2019-12-4,703,Metaflow: Netflix has open-sourced their Python library for data science project management,I am one of the authors of metaflow. Happy to answer any questions!,"Would love to hear someone who knows more than I’s opinion on metaflow vs Prefect. Both pretty much take the design philosophy of “your code is python, add this small wrapper and you get a bunch of benefits”. I haven’t gone into that much depth on Metaflow yet, but would be curious to see how they stack up!",Their [announcement blog post is here](https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
+2020-3-29,703,[Source code with demo] Here is my python implementation of Deep Q-learning for playing Tetris,"Source code: [https://github.com/uvipen/Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch)
+
+Demo: [https://youtu.be/g96x6uATAR8](https://youtu.be/g96x6uATAR8)",Nice,I bet this was tons of fun to make. Bravo! 👏
+2021-7-26,694,I translated it from Prussian for y'all,"The original quote was from von Moltke the elder, that picture is of von Moltke the younger.","If your offensive goes as planned, then unmistakably you are just springing a trap.",Prussians invented multi threading (fighting both French and Russians) long before Intel was founded
+2020-6-30,696,Landed my first full time job today - Data Engineering,"Thanks for sharing, congratulations and good luck","Awesome, also Data Engineering will be an invaluable experience to have later in your career",I'm in a similar situation and just rounded the 220 applications mark. Thanks for your story! I hope I'm as lucky as you are!
+2021-8-9,692,What being a data scientist on LinkedIn looks like,I recognize an fstring when I see one in the wild!,"Congratulations First Name, sounds like a real winner! 
+🤦🏻‍♂️😂",I'm not convinced my profile got reviewed.
+2019-10-22,687,I made a Chrome extension to make web scraping simple,"For your work and sharing, I give you a silver.",Just looked at the tool and it looks awesome! Congrats!,Very nice. Are you planning on creating a version for Firefox users too? Would like to have a tinker with this in FF.
+2020-6-2,685,"So many people disappointed with their jobs. You need to manage your expectations, especially if you're very junior.","Well said. Just to add one more item to the list. When starting a new job, whether you are a new hire/experienced hire/hired as a manager, try have lower expectation in the beginning then slowly adjust to the current. And a good boss is way more important than the job itself.","Also, ask about what the company considers 'data science'.
+
+Where I work, we have a team of 3 data scientists who just do research stuff and it's up to developers like myself to source the data and deploy the models. So I send the DS folks the data they want and they do their research and send back the model they want me to put into production. 
+
+I wanted to be a data scientist having seen them at work because it's all research and very little data housekeeping, but it turns out that other companies are different. Some places expect data scientists to maintain databases or even gather data themselves which is a lot less fun, so find out who will be doing this stuff before you sign up for it","One thing that surprised me when I first started (and to some degree still surprises me now) is how little guidance or structure you get from anyone.  In all likelihood:
+
+\-your manager isn't much more experienced than you
+
+\-or this person is non-technical/an engineer by trade who got corralled into managing you
+
+\-line employees don't know what you really do or how you can help
+
+\-senior execs don't really have a vision or roadmap for data science, they just knew they had to hire people like you for some reason
+
+\-there is no obvious, easy application of DS/ML to your product/operations
+
+\-if there is, people tend to be very resistant to incorporating any change
+
+All of which is to say, this profession involves a lot of initiative, salesmanship, and ""eating what you kill"", which can be compelling or horrible depending on the person.  More than anything, this is why DS is not the best job for people with no work experience."
+2021-1-14,673,"We Need More Data Engineers, Not Data Scientists","There is a rather clear shift in the market indeed which can be explained by different factors:
+
+* Data leaders are more educated and now know better what it takes to run a successful data team as they generally have witnessed it or done it in a couple of companies before.
+* Those companies realize that the basis of a good DS work is to have the data neatly acquired, processed, modelled, organized and accessible. Doing this right makes the reporting, science and all other downstream parts much easier.
+* They also realize that this is a specific skillset and it should not fall on the shoulder of a data scientist but of a dedicated data engineer.
+* In parallel, the Data Scientist role starts to be divided into more precise sub roles, some more oriented towards business (business analyst, product analyst, data analyst, BI developer,...) some more towards engineering (ML Engineer, ML Ops, ML Scientist,...). So there are less purely ""Data Scientist"" roles but a bunch of new specialized roles which bring more clarity towards what's actually expected from the professionals.
+* Another trend is the greater need for automation and therefore engineering. During years companies/DSs have developed methods to solve some specific problems and some of these tools are becoming standard and can be mostly/fully automated. Therefore, there is a need for more engineering-focused role to do this correctly.
+
+EDIT: Forgot to add: volume of data is also getting bigger with time, so that also generates a higher need for people who actually know how to deal with such volumes.","We also need data scientists that focus on stats ... or .. and this is going to be mind boggling ... we need actual statisticians .
+
+I think the ideal data science team should pair highly experienced and trained statisticians with their counterpart CS/data engineer to solve a DS problem.",Software engineer here that has been doing data engineering for the past years. For some reason software engineering seems to still pay more than data engineering roles. Also not having to deal with matching table records or semi-manual etl jobs is another plus. I wonder if data engineer salaries will raise in the next years.
+2021-7-20,679,"FYI: If You're New to the Industry, the Data Science Job Market is Saturated","In my opinion, it is much safer to develop expertise in a domain (healthcare, insurance, banking etc.) and then apply data science principles to your domain. That's what I have done. I am not a data scientist and nobody will hire me for my data science ""skills"" (honestly I am not skilled like many people in this sub). Instead I have been able to cement my reputation (and get good raises) as I brought data driven insights and speed to decision making in my job. This may not be possible for everyone but developing domain expertise and then applying data science is easier that chasing a few pure play data science positions.",And many of them aren’t worth hiring.,"The industry is the wild west. Everyone sees the common themes: no one knows what data scientist means, misaligned expectations, non existent workflows and pipelines, companies having no strategy when hiring a data scientist, frankly inability to identify strengths, etc, etc. It's going to be like this for a while. Best way in as I see it, get some sme knowledge and learn the data science pieces. Take focused course work with this edge. Building models is foundational, and yet probably less than 10% of the battle."
+2021-7-10,674,Low key the new icon kinda sucks,"Hey, thanks for the discussion thread! I am the mod who has been updating it and created a sticky last week for a place to make suggestions and didn’t get much feedback. 
+
+The original icon was testing, but had complaints it was hard to see, which was understandable and it turned out to be not in free domain. So I had to make a quick change and I figured floppy disk was storage related and nostalgic for some. 
+
+After looking through a ton of icons there is not really any icons that really represent data science as a whole as the field is so diverse. Data storage ended up seeming like the best fit. It is obvious in this thread that the theme just isn’t working, so I will disable it here shortly!",The floppy disk? Is that the logo? Doesn't make sense to me.,Sounds like it's time to do some A/B testing.
+2020-3-24,674,"If anyone is really into keyboard shortcuts like I am I just found a guide that has a ton of them for many IDE's. Includes: Python, Tableu, Excel, SQL, R, SAS, SPSS, Matlab & Stata.",[deleted],Awesome!  Thank you for sharing.,"Thanks for sharing. :)
+
+As an FYI to others - there isn't actually a Stata section, despite it being on the title page of the document."
+2019-5-13,673,The Fun Way to Understand Data Visualization / Chart Types You Didn't Learn in School,"What's up with scatter plots being some kind of advanced math? They're like, the third most intuitive type of plot possible (behind bar graphs and line graphs).","Violin Plot: Box plot, but with vaginas",Made by someone who hates their job
+2021-3-17,660,Imposter syndrome and prioritizing what to learn,"Great post!
+
+I would add that, particularly on LinkedIn, there is an ""instagram"" effect where people are broadcasting their achievements but people rarely call out the challenges or where they fail.","This resonates strongly with me. Thank you for sharing your experiences in such a well-thought-out post!  Something I struggle with in data science is there are SO MANY THINGS to learn and it’s very difficult to decide what to prioritize.  I end up working myself to death. 
+
+For instance, I’m looking for a new job. What I want is to work on a small team of people with diverse educational backgrounds, struggle through problems, and make good things happen. I know I can teach myself anything. That’s basically what all my years of school were for; not an end goal of “knowledge,” but rather a framework for being able to learn and do anything in DS.  But others don’t think this way (see: all job descriptions in DS).  What if the perfect job passes me by because something they need isn’t on my resume?  What if it passes me by because I don’t have a PhD?  Both have happened. It only increases my feeling of incompetence. 
+
+So, my problem is I don’t KNOW what to prioritize because a) there is just so much to learn and frankly almost all of it is interesting, and b) my career goals are oriented more around working on hard problems and solving them, and less on what the specific problems are.",Also- ask your boss. My company is big on angular so I planned to learn it in my free time. But boss lady said she really needed an API product owner for an api we are taking over from from another Dept... so now I am getting better with API’s and focusing on that
+2020-8-4,653,I am tired of being assessed as a 'software engineer' in job interviews.,"I'm of two minds on this.
+
+Sure, it's unlikely that leetcode will be terribly helpful for most DS jobs, the same way it's not immediately useful for most dev jobs.
+
+But the industry is starting to favor data scientists that have legit SWE chops (at least for the most in-demand jobs and companies).  This is just the way it's going right now as companies try to emulate the big tech shops and incorporate ML into production.  That is primarily an engineering task.  They aren't wrong for demanding competent engineering.
+
+That said, I typically decline timed online code tests, especially if they're given before I even talk to anyone. At least if it's a whiteboard or a paired coderpad, they're investing their time into it as well.","> Don't expect me to write some janky-ass tree-based sorting algorithm from scratch when it has 0% relevance to what my actual job involves
+
+It doesn't have a whole lot to do with what a software engineer does either, but we haven't really figured out a better way to semi-reliably test coding ability other than these stupid exercises.","I agree interviewers get caught up on algorithms problems when not appropriate for job. That said, I also expect the data scientists to be among the best problem solvers. For my company, the ability to work with graph data is critical. I'm less concerned with implementation quality for problems than how they think about problem (so I prefer live/zoom interview over web-based coding exercise). As an example, we made an offer to a candidate that didn't recognize a DFS graph problem but was able to ask good questions and come up with an equivalent solution with minor code bugs. The thinking was we could trust someone like that to be independent, which is very valuable for a team of our size (<20).
+
+Anyway, I think there are interviewers that ask questions like that for good and bad reasons."
+2020-6-28,650,Comprehensive Python Cheatsheet now also covers Pandas,"Damn, that's great work.",Please keep posting such content! I'm a student and I'm sure many more like me would love stuff like this!,"I just found out that this kind of post are not really welcome on this sub because they usualy don't lead to a debate...
+
+However I would like to get some feedback, from ""you people"" because I'm more of a standard programmer that just ocasionally dubles in datascience and doesn't know R, Stata, etc. I would especially be interested what people who know R but don't use Python regularly think about it? Is it helpful, easy to understand?"
+2021-5-27,655,A lot of people entering this field are like over-fitted models,"Oh come on. Have you read job descriptions?
+
+Must have PhD in machine learning and computer vision and drug design and pharmaceutical engineering and rocket science plus demonstrated 20 years experience in each field. 
+
+You wonder why there's over fitting?. It's because employers over-hire skilled people to do bitch work.","Overfitting gets stakeholders’ initial buy in. Poor performance guarantees your job next year.
+
+*TAPS HEAD",Showerthoughts by data people
+2021-1-19,658,I'm a Senior Data Scientist at Disney and I'm hosting another Data Science Q&A session this Thursday @ 5:30 PM PST. I'll be joined by a Principal Data Scientist at Clearbanc!,"There seems to be issues with the link in the body. I'll also post it here as well. 
+
+[https://disney.zoom.us/webinar/register/WN\_SbiRedGfRdi2v94gnI-rTw](https://disney.zoom.us/webinar/register/WN_SbiRedGfRdi2v94gnI-rTw)
+
+Also, if you’re interested in checking out a past session, here you go:
+
+https://youtu.be/Fctma0S3XuE","Is Disney still outsourcing jobs, or perhaps their PR team has better public relations teams that have better syntactical sugar in their press releases?",Thank you for taking time out to do this.
+2018-12-5,653,Visual vocabulary for designing with data,"Yes, but where are [Chernoff Faces?](https://en.wikipedia.org/wiki/Chernoff_face) ",I needed this in my life.,One of the perfect visual vocabulary for data science. Thanks for sharing!
+2020-6-23,656,Why the ability to concentrate is the most important skill in 2020,\**Slowly closes reddit and gets back to work*\*,"There is an incredibly easy way to gain this skill overnight - sleep more.
+
+I used to get 7-7.5 hours a night, now I get 8.5. It's had an incredible impact on my ability to focus.",I have lot of tasks to complete yet I couldn't work on any them because they seem overwhelming. It's difficult for me to do a simple task and it's affecting my Life
+2020-11-7,655,First Year As A Data Scientist Reflection,"Solid advice from what I can tell is a true data scientist. It still is a vast, vague, less-understood field despite the hype around it. I like what you said about stakeholders not even knowing what they truly want. It's the data scientist's job to help visualize the goal for them, too. This is the ""art"" in data science that so many overlook (and therefore struggle with).
+
+Reminds me of the classic example of customers wanting as high as an accuracy as possible in a binary classification, while not understanding the impact of false negatives in a critical situation.","I am 18 months into a role as a DataOps engineer, working with big companies' data teams to implement projects, and I would 100% agree!
+
+'Slowing down' a project upfront to ensure everyone actually knows what is needed, what the outputs will be and what assumptions need to be made is incredibly important. Whilst these are decisions that can be guided by the DS, the business experts should be brought into it along the way, which helps to 1) ensure you're not making bad assumptions and 2) avoid the DS basically working in waterfall mode and presenting a 'finished' project 2 months later with no feedback.","I am 5 years in the job right now and I can say that you have learnt a lot in the first year.
+ 
+I just want to add one thing that I learnt. If you have issues acessing data, that needs to become your number 1 priority. Your work will be slow and meaningless and painful until you have a proper data storage dedicated to research, where you can play without risking to impact the production environment."
+2021-8-12,651,That's $44k - $52k for my American friends,"Skilled in **SPSS**, R and python. In that order.","This is definitely the Data Scientist level, not senior in London
+
+This is unfortunately still a reflection of UK salaries",Good thing cost of living in London is really low.
+2021-2-27,642,R is far superior to Python for data manipulation.,"As someone who spends a lot of time using both R and Python about 50/50, here's how it plays out in reality:
+
+- R is better for: tabular data manipulation, data viz, simple models (e.g. OLS).
+
+- Python is better for: *Everything else*, including nontabular data manipulation, neural networks/AI, and most importantly deployment.
+
+*You can do all tasks in both languages*, but usually it comes at the cost of unexpected technical debt if you don't use the right tool for the right job.","Without arguing with your points I just want to say that in pandas you can also chain operations to create variables, manipulate them, and so on. For example:
+
+    (df.assign(c = df['a'] + 2)
+     .query('c>3')
+     .dropna())
+
+&#x200B;
+
+It surprises me, that people often forget about it.
+
+As for me, I tried using R without Tidyverse of dplyr and didn't like it. I admit that I have heard a lot of good things about them, but in my latest projects working with data frames is only a small part of all the process, so I don't have reasons to do anything in R.","Sounds you’re just talking about structured data. What about all the unstructured data out there? json, images, documents? I think python is superior in this aspect."
+2020-8-26,643,Elon Musk has said he will demonstrate a functional brain-computer interface this week during a live presentation from his mysterious Neuralink startup.,"introducing the future of machine-human interaction: ""a very complicated and overfit model""!",Imagine what the 5G conspiracy theorists will have to say about this,What's the cybertruck broken windows human brain equivalent?
+2020-9-10,646,Today I reached a new milestone: got rejected from an internship in 5 hours!,Keep a tracker of your rejection letters and you can maybe later turn it into a data project!,"I applied for so many and got rejected by all of them, I pretty much gave up hope till I saw one that was perfect in everyway possible but I thought it would be competitive, so I thought fuck it and applied one last time anyway for it thinking if this doesn't work I'm going to give up lol 
+
+Next thing I know, I get an interview and even though I felt like I bombed the interview I managed to get the internship, now a few weeks in. 
+
+Don't give up buddy keep at it 👊
+
+Edit:typos",[deleted]
+2020-5-7,636,What makes a good personal project - from the perspective of a hiring manager,"Awesome write-up, I’m not a hiring manager but I totally agree on this. Don’t just work on a project to build your portfolio, but find a problem that’s actually interesting to you. 
+
+Along with the numerous benefits OP posted above in regard to overcoming challenges (particularly the messiness of data), I personally think passion about a project makes it a lot more valuable when explaining it to an interviewer (and also it’s more fun for you to work on!).","I don't always see eye to eye with things that /u/dfphd posts, but, as a hiring manager as well, this is pretty spot on.
+
+> If the resumes I've reviewed over the last 5 years are any indication, most people seem to think that the answer is a Jupyter Notebook that takes a pretty standard dataset, does EDA, builds a model, and presents a bunch of plots showing quality of fit.
+
+So. Many. Kaggle. Examples. 
+
+Seriously, its almost an instant 'nope' if I see another kaggle housing data set personal project. I've even had a few people show me problems on the iris data set. 
+
+Solve something real and unique, that YOU find interesting, and not just for the sake of solving it, do it because you're passionate about learning and exploration, and because you see an actual gap that can be filled.
+
+Quality post.","Totally agree. Being a data scientist is as much about creative problem solving and critical thinking as it is about technical skills. Show the hiring manager that you can pull a question out of the abstract, and then make an interesting explanation for it using your skills. Pick a topic that makes people think, “huh, that’s cool!” The publication “The Pudding” is a good source for ideas like this."
+2020-6-16,627,You probably should be using JupyterLab instead of Jupyter Notebooks,woops. I have only been using notebook. Endorsedd my by universtiy TAs and Profs.,Do I live in a bubble? I thought everyone switched to lab since forever ago.,I've been using Jupyter Lab for a long time. The existence of tabs is a big plus for me.
+2017-9-19,628,How I went from no coding or machine learning experience to data scientist job offer in 20 months. [x-post r/learnprogramming],You greatly underestimate the value of your master's degree in Operations Research. ,">The name of the school and the operations research degree opened up quite a few doors in the beginning of my (2-year) career, and definitely was a factor in getting an interview, but had nothing to do directly with what was needed for the Data Science job. This is because that offer was contingent on a programming skillset and specific data science problem-solving abilities, of which I had none right after graduation.
+
+The offer may also have been contingent on your education background, you just had that already.
+
+Unfortunately industry trusts grad degree holders more for these roles. Operations Research is going to flag your CV as coming from a candidate that has an optimization and statistics background. The grad degree flags you as someone that can learn more-or-less self directed.",WHAT?! 20 months! But I thought I could get a data scientist job by spending 20 minutes this afternoon learning about data science on Coursera!
+2019-8-12,629,Landed my first full time job as a data scientist!!!,"Care to share some details?  What's your degree, for example?  What prior experience do you have?",Congratulations on your success and good luck!,"Nice work.
+
+What are your qualifications like?"
